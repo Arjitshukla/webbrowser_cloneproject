@@ -56,6 +56,6 @@ class Main_face(QMainWindow):
 
 
 Application = QApplication(sys.argv)
-QApplication.setApplicationName('Black Star')
+QApplication.setApplicationName('my google')
 Window = Main_face()
 Application.exec()
